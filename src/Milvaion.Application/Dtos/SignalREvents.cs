@@ -62,6 +62,11 @@ public record OccurrenceUpdatedSignal
     public int Status { get; set; }
 
     /// <summary>
+    /// Worker id of the job occurrence.
+    /// </summary>
+    public string WorkerId { get; set; }
+
+    /// <summary>
     /// Start time of the job occurrence.
     /// </summary>
     public DateTime? StartTime { get; set; }

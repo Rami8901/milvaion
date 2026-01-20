@@ -86,6 +86,7 @@ public class SignalRJobOccurrenceEventPublisher(IHubContext<JobsHub> hubContext)
                         Id = occurrence.Id,
                         Status = (int)occurrence.Status,
                         StartTime = occurrence.StartTime,
+                        WorkerId = occurrence.WorkerId,
                         EndTime = occurrence.EndTime,
                     }, cancellationToken);
                 }
